@@ -17,12 +17,12 @@ The database consists information about 156 SNP-trait associations (123 unique S
 This information can be useful for further association studies and preliminary estimation of genetic variability for economically important traits in different breeds. 
 
 Table Legend:
-Supplementary Table 1 – List of articles found on the first step of analysis
-Supplementary Table 2 - List of articles found on the second step of analysis
-Supplementary Table 3 – Summarized information for all found relevance papers 
-Supplementary Table 4 – Genes associated with traits of interest from papers pass the quality control
-Supplementary Table 5 - SNPs associated with traits of interest from papers pass the quality control
-Supplementary Table 6 - Allele frequncies for three Russian popiulations.
+- Supplementary Table 1 – List of articles found on the first step of analysis
+- Supplementary Table 2 - List of articles found on the second step of analysis
+- Supplementary Table 3 – Summarized information for all found relevance papers 
+- Supplementary Table 4 – Genes associated with traits of interest from papers pass the quality control
+- Supplementary Table 5 - SNPs associated with traits of interest from papers pass the quality control
+- Supplementary Table 6 - Allele frequencies for three Russian popiulations.
 
 # Estimation of allele frequencies Romanov and  katahdin breeds 
 We calculated the allele frequencies (AF) of 89 SNPs in the samples of 18 Romanovs and 6 katahdins maintained at the Ernst Institute of Animal Husbandry, and 10 Argalis collected in various places from Russia and Kyrgyzstan (see ST6). Both domestic breeds showed sufficient variability. Average minor allele frequency (MAF) was 0.22 for both breeds. Correlation between AF for these 89 SNPs was 0.54. On contrary, almost all SNPs were fixed in argalis (average MAF was 0.03).
