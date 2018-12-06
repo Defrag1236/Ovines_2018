@@ -3,7 +3,7 @@
 Supplementary tables for paper "Recent advances in understanding genetic variants associated with growth, carcass and meat productivity traits in sheep (Ovis aries): an update" (in preparation)
 
 Authors:
-Alexander S. Zlobin[1], Natalia A. Volkova[2], Pavel M. Borodin[1,2,3], Natalia Z. Zinovieva[2],Tatiana I. Aksenovich[1,2], Yakov A. Tsepilov[1,2,3]
+Alexander S. Zlobin[1], Natalia A. Volkova[2], Pavel M. Borodin[1,2,3], Tatiana I. Aksenovich[1,2], Yakov A. Tsepilov[1,2,3]
 
 1. Institute of Cytology and Genetics, Siberian Branch of the Russian Academy of Sciences, Novosibirsk, Russia, 
 2. L.K. Ernst Federal Science Center for Animal Husbandry, Dubrovitsy, Moscow Region, Russia
@@ -24,5 +24,8 @@ Table Legend:
 - Supplementary Table 5 - SNPs associated with traits of interest from papers pass the quality control
 - Supplementary Table 6 - Allele frequencies for three Russian popiulations.
 
-# Estimation of allele frequencies Romanov and  katahdin breeds 
+# Estimation of allele frequencies for Romanov and  katahdin breeds 
 We calculated the allele frequencies (AF) of 89 SNPs in the samples of 18 Romanovs and 6 katahdins maintained at the Ernst Institute of Animal Husbandry, and 10 Argalis collected in various places from Russia and Kyrgyzstan (see ST6). Both domestic breeds showed sufficient variability. Average minor allele frequency (MAF) was 0.22 for both breeds. Correlation between AF for these 89 SNPs was 0.54. On contrary, almost all SNPs were fixed in argalis (average MAF was 0.03).
+
+# Primers for top 11 SNPs
+We developed 11 forward and reverse primers for top11 SNPs (see 20181206_primers_top11_SNPs.xlsx file)
