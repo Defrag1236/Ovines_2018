@@ -22,7 +22,7 @@ Table Legend:
 - Supplementary Table 3 – Summarized information for all found relevance papers 
 - Supplementary Table 4 – Genes associated with traits of interest from papers pass the quality control
 - Supplementary Table 5 - SNPs associated with traits of interest from papers pass the quality control
-- Supplementary Table 6 - Allele frequencies for three Russian popiulations.
+
 
 # Estimation of allele frequencies for Romanov and  katahdin breeds 
 We calculated the allele frequencies (AF) of 89 SNPs in the samples of 18 Romanovs and 6 katahdins maintained at the Ernst Institute of Animal Husbandry, and 10 Argalis collected in various places from Russia and Kyrgyzstan (see ST6). Both domestic breeds showed sufficient variability. Average minor allele frequency (MAF) was 0.22 for both breeds. Correlation between AF for these 89 SNPs was 0.54. On contrary, almost all SNPs were fixed in argalis (average MAF was 0.03).
