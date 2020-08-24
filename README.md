@@ -29,3 +29,6 @@ We calculated the allele frequencies (AF) of 89 SNPs in the samples of 18 Romano
 
 # Primers for top 11 SNPs
 We developed forward and reverse primers for top 11 SNPs (see 20181206_primers_top11_SNPs.xlsx file).
+
+# Update database 24.08.2020
+We added information from a couple of new papers. See in file 20200824_Ovines_meat_productivity_database.xlsx
