@@ -1,5 +1,5 @@
 # Database update - 24.08.2020
-We added information from a couple of new papers. Updated tables are in file 20200824_Ovines_meat_productivity_database.xlsx.
+We added information from six new papers. Updated tables are in file 20200824_Ovines_meat_productivity_database.xlsx.
 
 # Recent advances in understanding genetic variants associated with growth, carcass and meat productivity traits in sheep (Ovis aries): an update
 Supplementary tables for paper "Recent advances in understanding genetic variants associated with growth, carcass and meat productivity traits in sheep (Ovis aries): an update" (in preparation)
